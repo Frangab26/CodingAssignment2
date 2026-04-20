@@ -1,0 +1,43 @@
+body{
+/*border: double cornflowerblue;*/
+background-image: url();
+background:#C78979; 
+color:#73344E;
+font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+/*font-weight: bold; */
+}
+
+h1,h2,h3{
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color:black;
+    /*font-size:30px;*/
+    }
+p {
+    color:black;
+}
+
+ul{
+    color:black;
+}
+
+li{
+    color:black;
+}
+ol{
+    color:black
+}
+
+.wrapper {
+
+  display: flex;
+
+}
+
+.wrapper div {
+
+  flex: 1;
+
+}
+
+
+
